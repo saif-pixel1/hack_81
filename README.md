@@ -1,64 +1,48 @@
-🧠 AI Research Methodology Recommender (Offline Version)
+<div align="center">
 
-An intelligent Streamlit-based tool that recommends appropriate research study designs based on a user-defined research objective.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/light_mode.svg">
+  <img alt="saif-pixel1 GitHub profile card" src="images/light_mode.svg">
+</picture>
 
-This version runs fully offline with no API or external AI services required.
+</div>
 
-🚀 Features
+<!--
+  ============================================
+   EDIT ZONE — update the lines below anytime.
+   Everything above (the banner) auto-switches
+   with GitHub's light/dark theme, no edits needed.
+  ============================================
+-->
 
-📚 Select research domain
+### 👋 About Me
+I'm Saif, a developer based in Mumbai, India.
 
-📝 Input research objective
+- 💼 **Current Role:** _e.g. Software Engineer Intern @ CompanyName_
+- 🎓 **Major / Field of Study:** _e.g. B.Tech in Computer Science, XYZ University_
+- 📚 **Currently Learning:** _e.g. React, System Design, DSA in Python_
+- 🌱 **Interests:** _e.g. Web Dev, Open Source, AI/ML_
+- 🔭 **Currently Working On:** _e.g. Personal portfolio site_
+- 💬 **Ask Me About:** _e.g. HTML/CSS, Python, Git_
 
-🧠 Intelligent keyword-based study design detection
+### 🛠️ Tech Stack
+<!-- Add / remove badges as your stack changes -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📊 Structured research framework output
+### 📫 Connect With Me
+- 📧 Email: saifakhtar43528@gmail.com
+- 🐦 Twitter: [@AidsB69442](https://twitter.com/AidsB69442)
+- 💻 GitHub: [github.com/saif-pixel1](https://github.com/saif-pixel1)
 
-🎨 Clean modern UI
+<!--
+  ============================================
+   END EDIT ZONE
+  ============================================
+-->
 
-🔌 Fully offline (No API key required)
-
-🏗 How It Works
-
-The system analyzes keywords in the research objective such as:
-
-Keywords	Recommended Design
-impact, effect, improve	Experimental / RCT
-explore, understand	Qualitative Study
-relationship, correlation	Correlational Study
-predict, model	Predictive Modeling
-(default)	Survey-Based Study
-
-It then generates:
-
-Recommended Study Design
-
-Justification
-
-Data Collection Plan
-
-Sampling Strategy
-
-Statistical Analysis
-
-Limitations
-
-Ethical Considerations
-
-🛠 Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/research-methodology-ai.git
-cd research-methodology-ai
-
-Install dependencies:
-
-pip install -r requirements.txt
-▶️ Run the App
-streamlit run app.py
-
-The app will open at:
-
-http://localhost:8501
-🎯 Use Cases
+<div align="center">
+  <sub>Last updated: <!-- update-date -->September 2026</sub>
+</div>
