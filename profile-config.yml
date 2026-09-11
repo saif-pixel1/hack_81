@@ -1,0 +1,18 @@
+# ─────────────────────────────────────────────────────────────
+# Edit this file whenever your role, studies, or focus changes.
+# Everything else on the card (repos, stars, followers, commits,
+# contributions, etc.) is pulled live from GitHub automatically —
+# you never need to touch the SVGs directly.
+# ─────────────────────────────────────────────────────────────
+
+username: saif-pixel1
+
+# Shown in the "Profile" section of the card
+role: "Software Engineering Student"        # e.g. "Frontend Developer @ CompanyName"
+major: "B.Tech, Computer Science"           # your degree / field of study
+learning: "React, DSA, System Design"       # comma-separated, what you're learning now
+
+# Shown in the "Contact" section
+location: "Mumbai, Maharashtra, India"
+email: "saifakhtar43528@gmail.com"
+twitter: "@AidsB69442"
